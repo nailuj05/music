@@ -1,2 +1,2 @@
 # music
-A collection of my arrangements
+A collection of my arrangements.
